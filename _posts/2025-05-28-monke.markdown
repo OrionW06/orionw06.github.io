@@ -1,3 +1,10 @@
+---
+layout: post
+title:  "How I hacked my partner's Monkey"
+date:   2025-05-28 15:36:58 -0500
+categories: hacking
+---
+
 
 # How I hacked My Partner's Monkey
 
